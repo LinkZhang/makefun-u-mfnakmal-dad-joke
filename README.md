@@ -6,6 +6,8 @@
 
 A program that writes a one-line dad joke to /output/entry.txt.
 
+> Dad fixed the squeaky door with cooking oil. 'Now it opens silently,' he said. 'Like a ninja. A very greasy ninja named Dave.'
+
 ## Run it
 
 ```sh
